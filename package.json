@@ -1,0 +1,24 @@
+{
+  "name": "atom-recover",
+  "main": "./lib/atom-recover",
+  "version": "0.0.0",
+  "description": "Recover your files in case of catastrophic failure",
+  "keywords": ["swapfile", "recover", "failsafe"],
+  "activationHooks": [
+    "core:loaded-shell-environment"
+  ],
+  "repository": "https://github.com/atom/atom-recover",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^7.8.1",
+    "eslint-config-standard": "^14.1.1",
+    "eslint-plugin-import": "^2.22.0",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-standard": "^4.0.1"
+  }
+}
