@@ -1,9 +1,13 @@
 {
   "name": "atom-recover",
   "main": "./lib/atom-recover",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Recover your files in case of catastrophic failure",
-  "keywords": ["swapfile", "recover", "failsafe"],
+  "keywords": [
+    "swapfile",
+    "recover",
+    "failsafe"
+  ],
   "activationHooks": [
     "core:loaded-shell-environment"
   ],
