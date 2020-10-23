@@ -7,7 +7,7 @@
   "activationHooks": [
     "core:loaded-shell-environment"
   ],
-  "repository": "https://github.com/atom/atom-recover",
+  "repository": "https://github.com/gosukiwi/atom-recover",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
